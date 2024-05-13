@@ -1,5 +1,5 @@
 # Sistema de cadastro 🖥
-desenvolvido em php 
+desenvolvido em php, html e css.
 <br>
 <ul>
   <li>Tela de Home</li>
